@@ -1,6 +1,5 @@
 <h1 align="center">Console.Log(" 👋 Hello world");</h1>
-<h3 align="center">A passionate Web developer from Cartagena Colombia ![image](https://github.com/DavidC2205/DavidC2205/assets/80009785/483de7ef-3595-43fc-b112-f9865e17d676)
-</h3>
+<h3 align="center">A passionate Web developer from Cartagena Colombia  </h3> 
 <h3 align="left">Enthusiastic and dedicated Software Engineering student with a strong foundation in hardware maintenance, network troubleshooting, and IT support. A versatile professional actively mastering an array of programming languages, including Javascript, Angular, PHP, Java, and Python, while seamlessly navigating through databases such as MySQL and MongoDB. Proficient in the art of crafting dynamic web solutions, I bring a comprehensive skill set that encompasses not only coding but also a keen understanding of HTML and CSS. Eager to contribute my evolving expertise to innovative projects and collaborative teams, I am poised to make a significant impact in the realm of software development.</h3>
 
 -
