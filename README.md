@@ -112,8 +112,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/DavidC2205/DavidC2205/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/DavidC2205/DavidC2205/blob/output/github-contribution-grid-snake.svg)
 
 ###
